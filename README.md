@@ -1,6 +1,6 @@
 ## Aplicacion del clima - Curso Node
 
-Aplicacion de liena de comandos
+Aplicacion de linea de comandos
 Apis
 Promesas encadenadas async - await
 
